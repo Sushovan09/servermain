@@ -1,0 +1,65 @@
+{
+  "birds": [
+    {
+      "name": "Andaman Woodpecker",
+      "description": "The Andaman Woodpecker (Dryocopus hodgei) is a species of bird in the woodpecker family Picidae. It is endemic to the Andaman Islands of India.",
+      "image_path": "res/Andaman_Woodpecker.jpg"
+    },
+    {
+      "name": "Kashmiri Flycatcher",
+      "description": "The Kashmiri Flycatcher (Ficedula subrubra) is a small passerine bird in the Old World flycatcher family. It is found mainly in the Kashmir region of India.",
+      "image_path": "res/Kashmiri_Flycatcher.jpg"
+    },
+    {
+      "name": "Swamp Francolin",
+      "description": "The Swamp Francolin (Francolinus gularis) is a species of francolin found in the swamps and grasslands of the Indian subcontinent, particularly in the northern regions.",
+      "image_path": "res/Swamp_Francolin.jpg"
+    },
+    {
+      "name": "Yellow-throated Bulbul",
+      "description": "The Yellow-throated Bulbul (Pycnonotus xantholaemus) is a species of songbird in the bulbul family, found in the scrub forests and rocky hills of southern India.",
+      "image_path": "res/Yellow-throated_Bulbul.jpg"
+    },
+    {
+      "name": "Egyptian Vulture",
+      "description": "The Egyptian Vulture (Neophron percnopterus) is a small Old World vulture and the only member of the genus Neophron. It is found in southern Europe, Africa, and parts of Asia.",
+      "image_path": "res/Egyptian_Vulture.jpg"
+    },
+    {
+      "name": "Lesser Florican",
+      "description": "The Lesser Florican (Sypheotides indicus) is a bustard found in tall grasslands of the Indian subcontinent. It is notable for its elaborate courtship displays.",
+      "image_path": "res/Lesser_Florican.jpg"
+    },
+    {
+      "name": "Nilgiri Blue Robin",
+      "description": "The Nilgiri Blue Robin (Sholicola major) is a small passerine bird endemic to the Shola forests of the Western Ghats in southern India. It is also known as the White-bellied Shortwing.",
+      "image_path": "res/Nilgiri_Blue_Robin.jpg"
+    },
+    {
+      "name": "Saker Falcon",
+      "description": "The Saker Falcon (Falco cherrug) is a large bird of prey that breeds from eastern Europe across Asia to western China. It is known for its powerful hunting abilities.",
+      "image_path": "res/Falco_cherrug.jpg"
+    },
+    {
+      "name": "Steppe Eagle",
+      "description": "The Steppe Eagle (Aquila nipalensis) is a bird of prey that inhabits the open country of eastern Europe, Central Asia, and parts of Africa. It is a migratory species, moving to Africa and South Asia in winter.",
+      "image_path": "res/Steppe_Eagle.jpg"
+    },
+    {
+      "name": "Bengal Florican",
+      "description": "The Bengal Florican (Houbaropsis bengalensis) is a large terrestrial bird found in the Indian subcontinent, particularly in grasslands and marshes. It is critically endangered due to habitat loss.",
+      "image_path": "res/Bengal_Florican.jpg"
+    },
+    {
+      "name": "Sociable Lapwing",
+      "description": "The Sociable Lapwing (Vanellus gregarius) is a critically endangered wader bird native to central Asia. It is known for its long migrations to the Middle East, India, and Africa.",
+      "image_path": "res/Sociable_Lapwing.jpg"
+    },
+    {
+      "name": "Spoon-billed Sandpiper",
+      "description": "The Spoon-billed Sandpiper (Calidris pygmaea) is a small wader in the family Scolopacidae. It is critically endangered and known for its distinctive spoon-shaped bill.",
+      "image_path": "res/Spoon-billed_Sandpiper.jpg"
+    }
+  ]
+}
+
